@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Charmae's Day</title>
+</head>
+<script type="text/javascript">
+    confirm("You have reached another milestone, do you want to give it a go?")
+    alert("This day is made for you")
+    alert("Just for today, try not to think of anything that could ruin your mood, okay?")
+
+</script>
+<style>
+    body{
+        background-image: url("https://miro.medium.com/v2/resize:fit:720/format:webp/1*wHsM4lnTwnnkszc-depMbA.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+    }
+    h1,
+    h2 {
+        color: hotpink;
+    }
+    h3,
+    ul{
+         text-align: left;
+        color: violet;
+    }
+    body {
+        text-align: center;
+    }
+</style>
+
+
+<body>
+    <h1>Happy Birthday Chammm</h1>
+    <p1>I want to greet a happy happy birthday. I thank for this day because you exist and that makes me the happiest person alive. I hope you enjoy your day and spend it well with your loved ones.
+        I'm wishing you nothing but happiness with your whole existence! I know my presence is not enough but atleast you'll have somebody who'll be with you, love you so so much!! have an amazing birthday</p1>
+    <h2>We are always rooting for you and I hope all your dreams come true</h2>
+    <ul>
+         <li><a href="">From Friends</li>
+    </ul>
+    
+    <audio controls
+        <source src="https://docs.google.com/uc?export=open&id=1NsA_62bSYBGMH66I6FNSOurd2jM7X5sJ"
+        type="audio/mp3"
+
+        </audio>
+        
+</body>
+    
+</html>
